@@ -5,10 +5,6 @@
 | A Python module to learn all the major algorithms on the go!
 | Purely for educational purposes
 
-
-.. image:: https://images.gitads.io/pygorithm
-   :target: https://tracking.gitads.io/?campaign=gitads&repo=pygorithm&redirect=gitads.io
-
 #Features
 ~~~~~~~~
 
